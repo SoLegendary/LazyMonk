@@ -1,0 +1,10 @@
+// Unfortunately, the WoW API cannot retrieve keybindings for specific spells,
+// only keybindings for actionbar buttons (ie. we can get the location of a
+// keybinding on the actionbar but not what spell is placed in that location)
+
+// For LazyMonk to display a spell keybinding, you must manually input them here
+// If you don't have a particular spell then don't worry about writing anything
+
+Tiger Palm 1
+Blackout Kick 2
+Fists of Fury 3
